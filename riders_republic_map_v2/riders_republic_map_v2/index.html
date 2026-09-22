@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>RR Explorer — Riders Republic Map</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="map"></div>
+
+<header class="top">
+  <div class="logo"><b>RR</b><span>EXPLORER</span></div>
+  <div class="search"><span>⌕</span><input id="search" placeholder="Rechercher un lieu, une relique, un point de vue…"><button id="clear">×</button></div>
+  <button class="mobile-menu" id="menu">☰</button>
+</header>
+
+<aside class="panel" id="panel">
+  <div class="panel-head"><div><strong>Explorer</strong><small id="resultText">Chargement…</small></div><button id="closePanel">×</button></div>
+  <div class="quick">
+    <button data-preset="all" class="active">Tout</button>
+    <button data-preset="collectibles">Collectibles</button>
+    <button data-preset="activities">Activités</button>
+  </div>
+  <div id="filters"></div>
+  <div class="progress">
+    <div class="progress-top"><span>Progression</span><b id="progress">0%</b></div>
+    <div class="bar"><i id="bar"></i></div>
+    <small id="progressInfo">0 élément terminé</small>
+  </div>
+  <button class="reset" id="reset">Réinitialiser les filtres</button>
+</aside>
+
+<div class="map-actions">
+  <button id="locate" title="Ma position">◎</button>
+  <button id="home" title="Vue générale">⌂</button>
+</div>
+
+<div class="tip">Fond cartographique © OpenStreetMap contributors</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

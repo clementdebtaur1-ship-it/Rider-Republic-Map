@@ -1,0 +1,192 @@
+[
+  {
+    "id": "rel-01",
+    "name": "Grandpa Bike",
+    "type": "relic",
+    "region": "Yosemite Valley",
+    "x": 28,
+    "y": 34,
+    "desc": "Relique signalée à Yosemite Valley.",
+    "source": "guide"
+  },
+  {
+    "id": "rel-02",
+    "name": "Plane Wing",
+    "type": "relic",
+    "region": "Yosemite / Cloud Rest",
+    "x": 34,
+    "y": 28,
+    "desc": "Relique signalée vers Cloud Rest.",
+    "source": "guide"
+  },
+  {
+    "id": "rel-03",
+    "name": "Destroyed Bike",
+    "type": "relic",
+    "region": "Zion",
+    "x": 75,
+    "y": 63,
+    "desc": "Relique signalée dans la région de Zion.",
+    "source": "guide"
+  },
+  {
+    "id": "view-01",
+    "name": "Sherman Tree",
+    "type": "viewpoint",
+    "region": "Sequoia",
+    "x": 19,
+    "y": 27,
+    "desc": "Point de vue / landmark répertorié.",
+    "source": "guide"
+  },
+  {
+    "id": "view-02",
+    "name": "The Four Guardsmen",
+    "type": "viewpoint",
+    "region": "Sequoia",
+    "x": 22,
+    "y": 31,
+    "desc": "Point de vue / landmark répertorié.",
+    "source": "guide"
+  },
+  {
+    "id": "view-03",
+    "name": "Amphitheater Point",
+    "type": "viewpoint",
+    "region": "Grand Teton",
+    "x": 39,
+    "y": 16,
+    "desc": "Point de vue / landmark répertorié.",
+    "source": "guide"
+  },
+  {
+    "id": "view-04",
+    "name": "Grand Teton Summit",
+    "type": "viewpoint",
+    "region": "Grand Teton",
+    "x": 53,
+    "y": 11,
+    "desc": "Point de vue / landmark répertorié.",
+    "source": "guide"
+  },
+  {
+    "id": "view-05",
+    "name": "Half Dome",
+    "type": "viewpoint",
+    "region": "Yosemite",
+    "x": 31,
+    "y": 35,
+    "desc": "Point de vue / landmark répertorié.",
+    "source": "guide"
+  },
+  {
+    "id": "view-06",
+    "name": "Glacier Point",
+    "type": "viewpoint",
+    "region": "Yosemite",
+    "x": 35,
+    "y": 41,
+    "desc": "Point de vue / landmark répertorié.",
+    "source": "guide"
+  },
+  {
+    "id": "view-07",
+    "name": "El Capitan",
+    "type": "viewpoint",
+    "region": "Yosemite",
+    "x": 26,
+    "y": 43,
+    "desc": "Point de vue / landmark répertorié.",
+    "source": "guide"
+  },
+  {
+    "id": "view-08",
+    "name": "Tunnel View",
+    "type": "viewpoint",
+    "region": "Yosemite",
+    "x": 30,
+    "y": 46,
+    "desc": "Point de vue / landmark répertorié.",
+    "source": "guide"
+  },
+  {
+    "id": "view-09",
+    "name": "The Wave",
+    "type": "viewpoint",
+    "region": "Zion",
+    "x": 73,
+    "y": 57,
+    "desc": "Point de vue / landmark répertorié.",
+    "source": "guide"
+  },
+  {
+    "id": "view-10",
+    "name": "Angels Landing",
+    "type": "viewpoint",
+    "region": "Zion",
+    "x": 69,
+    "y": 68,
+    "desc": "Point de vue / landmark répertorié.",
+    "source": "guide"
+  },
+  {
+    "id": "view-11",
+    "name": "The Narrows",
+    "type": "viewpoint",
+    "region": "Zion",
+    "x": 77,
+    "y": 70,
+    "desc": "Point de vue / landmark répertorié.",
+    "source": "guide"
+  },
+  {
+    "id": "view-12",
+    "name": "Delicate Arch",
+    "type": "viewpoint",
+    "region": "Canyonlands",
+    "x": 89,
+    "y": 35,
+    "desc": "Point de vue / landmark répertorié.",
+    "source": "guide"
+  },
+  {
+    "id": "view-13",
+    "name": "Joshua Tree",
+    "type": "viewpoint",
+    "region": "Canyonlands",
+    "x": 84,
+    "y": 25,
+    "desc": "Point de vue / landmark répertorié.",
+    "source": "guide"
+  },
+  {
+    "id": "balloon-01",
+    "name": "RR Balloon — exemple vérifié",
+    "type": "balloon",
+    "region": "Carte",
+    "x": 57,
+    "y": 21,
+    "desc": "Exemple basé sur une paire de coordonnées communautaire publiée. À vérifier dans le jeu avant publication.",
+    "source": "community"
+  },
+  {
+    "id": "balloon-02",
+    "name": "RR Balloon — exemple vérifié",
+    "type": "balloon",
+    "region": "Carte",
+    "x": 78,
+    "y": 43,
+    "desc": "Exemple basé sur une paire de coordonnées communautaire publiée. À vérifier dans le jeu avant publication.",
+    "source": "community"
+  },
+  {
+    "id": "activity-01",
+    "name": "Activités / courses",
+    "type": "activity",
+    "region": "Grand Teton",
+    "x": 48,
+    "y": 18,
+    "desc": "Zone d'activités. Les positions exactes doivent être relevées avant publication.",
+    "source": "placeholder"
+  }
+]
